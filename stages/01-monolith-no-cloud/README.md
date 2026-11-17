@@ -1,6 +1,6 @@
 # Stage 01: Monolith from scratch (no cloud)
 
-**Status:** Planned
+**Status:** In progress
 
 ## Goal
 

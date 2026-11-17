@@ -15,10 +15,10 @@ A hands-on build-up of one web application, from a single server to microservice
 
 | # | Stage | Status |
 |---|---|---|
-| 01 | Monolith from scratch, no cloud: network, OS, app, CI/CD, scaling, DNS, TLS, ports, errors | Planned |
+| 01 | Monolith from scratch, no cloud: network, OS, app, CI/CD, scaling, DNS, TLS, ports, errors | In progress |
 | 02 | The same monolith with Docker | Planned |
 | 03 | Monolith on cloud, with and without Docker | Planned |
-| 04 | Monolith vs microservices, and how to convert | Planned |
+| 04 | Monolith vs microservices, and how to convert | In progress |
 | 05 | Microservices on cloud: Docker, then Kubernetes, with Terraform | Planned |
 | 06 | EKS vs GKE vs AKS | Planned |
 | 07 | Ecosystem: Istio, Jenkins, Argo CD, Packer, Helm, Prometheus/Grafana, ELK, Terragrunt | Planned |
